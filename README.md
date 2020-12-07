@@ -6,7 +6,7 @@ S = start cell;
 F = finish cell;
 . = cell where a path can go;
 #= wall/cell where a route cannot go;
-The input files must be rectangular;
+The input file mazes must be rectangular;
 
 An example is:
 10 12
@@ -23,6 +23,16 @@ An example is:
 
 
 The program will output this maze with "*" instead of "." where the shortest path was found (if applicable);
-For the above example:
-
+For the above example, the output to the standard input stream is:
+10 12
+...###.#....
+##.#...####.
+...#.#.#....
+#.####.####.
+#F**#..#.##.
+###*#....#S*
+#.#*####.##*
+****#.#***#*
+*####.#*#*#*
+********#***
 
