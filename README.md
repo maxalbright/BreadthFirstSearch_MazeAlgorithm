@@ -36,3 +36,7 @@ For the above example, the output to the standard input stream is:
 *####.#*#*#*
 ********#***
 
+
+
+To run the program, compile with "make maze" and run with "./maze " and the file name of the maze. 
+maze1.in and maze2.in are included as example mazes, and maze3.in and maze4.in are included as examples of mazes that are not formatted properly. 
