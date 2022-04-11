@@ -14,33 +14,14 @@ F = finish cell;
 #= wall/cell where a route cannot go;
 The input file mazes must be rectangular;
 
-An example is: <br>
-10 12 <br>
-...###.#.... <br>
-##.#...####. <br>
-...#.#.#.... <br>
-#.####.####. <br>
-#F..#..#.##. <br>
-###.#....#S. <br>
-#.#.####.##. <br>
-....#.#...#. <br>
-.####.#.#.#. <br>
-........#... <br>
+An example is: 
+<img width="230" alt="mazeinput" src="https://user-images.githubusercontent.com/70349082/162794999-2169ac42-ecf7-4701-acb5-4bbc7f9e436b.png">
+
 
 
 The program will output this maze with "*" instead of "." where the shortest path was found (if applicable);
 For the above example, the output to the standard input stream is: <br>
-10 12 <br>
-...###.#.... <br>
-##.#...####. <br>
-...#.#.#.... <br>
-#.####.####. <br>
-#F**#..#.##. <br>
-###*#....#S* <br>
-#.#*####.##* <br>
-****#.#***#* <br>
-*####.#*#*#* <br>
-********#*** <br>
+<img width="169" alt="mazeoutput" src="https://user-images.githubusercontent.com/70349082/162795011-29b505a3-bfc8-4759-9db6-72405be0b371.png">
 
 
 ### To run the program:
