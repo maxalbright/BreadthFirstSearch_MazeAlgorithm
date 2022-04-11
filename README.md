@@ -11,7 +11,7 @@ The number of rows and the number of columns on the first line seperated by whit
 - S = start cell;
 - F = finish cell;
 - . = cell where a path can go;
-- # = wall/cell where a route cannot go;
+- "#" = wall/cell where a route cannot go;
 - The input file mazes must be rectangular (if the Maze is formatted incorrectly, the output will be "Invalid maze.") <br>
 
 An example is: <br>
