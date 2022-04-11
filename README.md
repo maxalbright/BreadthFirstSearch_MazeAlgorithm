@@ -20,8 +20,8 @@ An example is: <br>
 
 ### Output:
 The program will output the inputted maze with "*" instead of "." where the shortest path was found (if applicable). If there is no legal path from start to finish, the program will output "No path could be found!". <br>
-For the above example, the output to the standard input stream is: <br>
-<img width="169" alt="mazeoutput" src="https://user-images.githubusercontent.com/70349082/162795011-29b505a3-bfc8-4759-9db6-72405be0b371.png">
+For the above example, the output to the standard input stream is: <br> <br>
+<img width="169" alt="mazeoutput" src="https://user-images.githubusercontent.com/70349082/162795011-29b505a3-bfc8-4759-9db6-72405be0b371.png"><br>
 
 
 ### To run the program:
