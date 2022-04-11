@@ -8,9 +8,9 @@ Given an input file with an ASCII maze, this program uses a breadth-first-search
 ### Input:
 The format of the input files is as follows:
 The number of rows and the number of columns on the first line seperated by whitespace.
-- S = start cell;
-- F = finish cell;
-- . = cell where a path can go;
+- "S" = start cell;
+- "F" = finish cell;
+- "." = cell where a path can go;
 - "#" = wall/cell where a route cannot go;
 - The input file mazes must be rectangular (if the Maze is formatted incorrectly, the output will be "Invalid maze.") <br>
 
