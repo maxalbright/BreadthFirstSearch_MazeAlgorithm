@@ -14,7 +14,7 @@ F = finish cell;
 #= wall/cell where a route cannot go;
 The input file mazes must be rectangular;
 
-An example is: 
+An example is: <br>
 <img width="230" alt="mazeinput" src="https://user-images.githubusercontent.com/70349082/162794999-2169ac42-ecf7-4701-acb5-4bbc7f9e436b.png">
 
 
